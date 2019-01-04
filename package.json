@@ -54,7 +54,7 @@
     "event-loop-lag": "^1.0",
     "extend": "^3.0.0",
     "favicon-setter": "^0.1",
-    "freeport": "^1.0",
+    "freeport": "^1.0.5",
     "getconfig": "^3.0.0",
     "handlebars": "^4.0.5",
     "hapi": "^17.0.0",
