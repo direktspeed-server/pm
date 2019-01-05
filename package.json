@@ -109,7 +109,7 @@
     "proxyquire": "^1.0",
     "sinon": "^2.0.0",
     "standard": "^8.5.0",
-    "testsuite": "^1.0"
+    "testsuite": "^1.0.1"
   },
   "bin": {
     "bs": "bin/guv",
