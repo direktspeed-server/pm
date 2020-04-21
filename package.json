@@ -100,7 +100,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "debug": "^3.0.0",
-    "coveralls": "^3.0.0",
+    "coveralls": "^3.0.12",
     "istanbul": "^0.4.5",
     "jsdom": "^11.4.0",
     "mocha": "^6.1.0",
